@@ -4,7 +4,7 @@
  - [Skype](https://join.skype.com/invite/eumi2mzscGm8)
  - [Telegram](https://t.me/kroim1202)
  ### Programming Languages
-  - JavaScript          - Other skill
+  - JavaScript
   - PHP
   - C/C++/C#
   - Java
