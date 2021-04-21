@@ -1,4 +1,3 @@
-### 👋 I am a full-stack blockchain developer
 <p align='center'>
 <a href="https://www.linkedin.com/in/kroim" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,31 +12,6 @@
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
-### Featured Technologies
- - Blockchain
- - Woocommerce/Ecommerce
- - AWS
- - CRM
- - ERP
- 
- ### Programming Languages
-  - JavaScript
-  - PHP
-  - C/C++/C#
-  - Java
-  - Python
-  - Typescript
-  - HTML
-  - CSS
-
-### Featured Frameworks
- - Node
- - React
- - Angular
- - Laravel
- - WordPress
- - Django
- - Flask
- - React Native
- - Ionic
+ - Featured Technologies: Blockchain, Woocommerce/Ecommerce, AWS, CRM, ERP
+ - Programming Languages: JavaScript, PHP, C/C++/C#, Java, Python, Typescript, HTML, CSS
+ - Featured Frameworks: Node, React, Angular, Laravel, WordPress, Django, Flask, React Native, Ionic
