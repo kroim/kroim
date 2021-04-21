@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
- - Featured Technologies: Blockchain, Woocommerce/Ecommerce, AWS, CRM, ERP
- - Programming Languages: JavaScript, PHP, C/C++/C#, Java, Python, Typescript, HTML, CSS
- - Featured Frameworks: Node, React, Angular, Laravel, WordPress, Django, Flask, React Native, Ionic
+
+ - `Featured Technologies`: Blockchain, Woocommerce/Ecommerce, AWS, CRM, ERP
+ - `Programming Languages`: JavaScript, PHP, C/C++/C#, Java, Python, Typescript, HTML, CSS
+ - `Featured Frameworks`: Node, React, Angular, Laravel, WordPress, Django, Flask, React Native, Ionic
