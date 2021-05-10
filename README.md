@@ -8,7 +8,7 @@
 <a href="mailto:wonderfulplayer@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://t.me/kroim1202" target="_blank">
+<a href="https://www.linkedin.com/in/kroim1202" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
