@@ -1,15 +1,15 @@
 <p align='center'>
-<a href="https://t.me/kroim1202" target="_blank">
+<a href="https://t.me/kroim1202">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/eumi2mzscGm8" target="_blank">
+<a href="https://join.skype.com/invite/eumi2mzscGm8">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:wonderfulplayer@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kroim1202" target="_blank">
+<a href="https://www.linkedin.com/in/kroim1202">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:wonderfulplayer@outlook.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
 
@@ -37,6 +37,40 @@
   </tr>
 </table>
 
- - `Featured Technologies`: Blockchain, Woocommerce/Ecommerce, AWS, CRM, ERP
- - `Programming Languages`: JavaScript, PHP, C/C++/C#, Java, Python, Typescript, HTML, CSS
- - `Featured Frameworks`: Node, React, Angular, Laravel, WordPress, Django, Flask, React Native, Ionic
+### Projects
+<table>
+    <thead align="center">
+        <tr>
+            <td>NFT Contracts</td>
+            <td>NFT Marketplace</td>
+            <td>PancakeSwap</td>
+            <td>PIVX Wallets</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+            <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+            <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+            <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+        </tr>
+    </tbody>
+        <thead align="center">
+            <tr>
+                <td>NFT Contracts</td>
+                <td>NFT Marketplace</td>
+                <td>PancakeSwap</td>
+                <td>PIVX Wallets</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+            </tr>
+        </tbody>
+</table>
+
+
