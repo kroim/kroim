@@ -52,7 +52,7 @@
             <td>
                 <a href="https://github.com/kroim/BrandonToken-NFT">
                     <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonContract.png?raw=true" width="200">
-                    <p style="margin-bottom: 1px; text-align: center;">BrandonToken</p>
+                    <p align="center" margin-bottom="1px">BrandonToken</p>
                 </a>
             </td>
             <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
