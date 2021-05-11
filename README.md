@@ -43,8 +43,8 @@
         <tr>
             <td>NFT Contracts</td>
             <td>NFT Marketplace</td>
-            <td>PancakeSwap</td>
-            <td>PIVX Wallets</td>
+            <td>Agenor Android</td>
+            <td>Multicoin Wallet</td>
         </tr>
     </thead>
     <tbody>
