@@ -64,23 +64,7 @@
             <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
             <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
         </tr>
-    </tbody>
-        <thead align="center">
-            <tr>
-                <td>NFT Contracts</td>
-                <td>NFT Marketplace</td>
-                <td>PancakeSwap</td>
-                <td>PIVX Wallets</td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-            </tr>
-        </tbody>
+    </tbody>        
 </table>
 
 
