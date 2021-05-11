@@ -43,7 +43,7 @@
         <tr>
             <td>NFT Contracts</td>
             <td>NFT Marketplace</td>
-            <td>Agenor Android</td>
+            <td>PIVX Wallet</td>
             <td>Multicoin Wallet</td>
         </tr>
     </thead>
@@ -61,8 +61,18 @@
                     <p align="center">BrandonMarket - Marketing contract</p>
                 </a>
             </td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+            <td>
+                <a href="https://github.com/kroim/Agenor-Android">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/Agenor_Android.jpg?raw=true" width="200">
+                    <p align="center">Android Wallet for AgenorCoin</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/kroim/BTCIL-Wallet">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/Bitcoinil.png?raw=true" width="200">
+                    <p align="center">BTC & BTCIL Mobile Wallet</p>
+                </a>
+            </td>
         </tr>
     </tbody>        
 </table>
