@@ -43,8 +43,7 @@
         <tr>
             <td>NFT Contracts</td>
             <td>NFT Marketplace</td>
-            <td>PIVX Wallet</td>
-            <td>Multicoin Wallet</td>
+            <td>PIVX Wallet</td>           
         </tr>
     </thead>
     <tbody>
@@ -66,13 +65,7 @@
                     <img src="https://github.com/kroim/profile/blob/master/projects/Agenor_Android.jpg?raw=true" width="200">
                     <p align="center">Android Wallet for AgenorCoin</p>
                 </a>
-            </td>
-            <td>
-                <a href="https://github.com/kroim/BTCIL-Wallet">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/Bitcoinil.png?raw=true" width="200">
-                    <p align="center">BTC & BTCIL Mobile Wallet</p>
-                </a>
-            </td>
+            </td>            
         </tr>
     </tbody>        
 </table>
