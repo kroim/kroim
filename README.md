@@ -49,7 +49,7 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/kroim/BrandonToken-NFT" target="_blank">
+                <a href="https://github.com/kroim/BrandonToken-NFT">
                     <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonContract.png?raw=true" width="200">
                     <p align="center">BrandonToken - NFT contract</p>
                 </a>
