@@ -41,30 +41,30 @@
 <table>
     <thead align="center">
         <tr>
-            <td>NFT Contracts</td>
+            <td>Matic Defi</td>
+            <td>BSC Defi</td>  
             <td>NFT Marketplace</td>
-            <td>PIVX Wallet</td>  
-            <td>Matic NFT Maketplace</td>
+            <td>Matic NFT</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/kroim/BrandonToken-NFT">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonContract.png?raw=true" width="200">
-                    <p align="center">BrandonToken - NFT contract</p>
+                <a href="https://maticfront.web.app/farms">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                    <p align="center">MaticSwap Defi</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://pearl-frontend-v1.vercel.app/farms">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
+                    <p align="center">Pearl Defi</p>
                 </a>
             </td>
             <td>
                 <a href="https://github.com/kroim/BrandonMarketing-Contract">
                     <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
                     <p align="center">BrandonMarket - Marketing contract</p>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/kroim/Agenor-Android">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/Agenor_Android.jpg?raw=true" width="200">
-                    <p align="center">Android Wallet for AgenorCoin</p>
                 </a>
             </td>
             <td>
