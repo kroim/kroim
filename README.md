@@ -37,6 +37,8 @@
         <tr>
             <td>Matic Defi</td>
             <td>BSC Defi</td>  
+          </tr>
+          <tr>
             <td>Matic NFT</td>
             <td>NFT Marketplace</td>
         </tr>
