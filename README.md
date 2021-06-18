@@ -46,13 +46,13 @@
         <tr>
             <td>
                 <a href="https://maticfront.web.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="400">
                     <p align="center">MaticSwap Defi</p>
                 </a>
             </td>
             <td>
                 <a href="https://pearl-frontend-v1.vercel.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="400">
                     <p align="center">Pearl Defi</p>
                 </a>
             </td> 
@@ -60,13 +60,13 @@
           <tr>
             <td>
                 <a href="http://18.188.94.167:5000/">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="400">
                     <p align="center">IgarataArt NFT MarketPlace</p>
                 </a>
             </td>
             <td>
                 <a href="https://github.com/kroim/BrandonMarketing-Contract">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="400">
                     <p align="center">BrandonMarket - Marketing contract</p>
                 </a>
             </td>                      
