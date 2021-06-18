@@ -33,14 +33,7 @@
 
 ### Projects
 <table>
-    <thead align="center">
-        <tr>
-            <td>Matic Defi</td>
-            <td>BSC Defi</td>  
-            <td>Matic NFT</td>
-            <td>NFT Marketplace</td>
-        </tr>
-    </thead>
+
     <tbody>
         <tr>
             <td>
@@ -55,6 +48,8 @@
                     <p align="center">Pearl Defi</p>
                 </a>
             </td>
+          </tr>
+          <tr>
             <td>
                 <a href="http://18.188.94.167:5000/">
                     <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
