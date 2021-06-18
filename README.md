@@ -55,7 +55,9 @@
                     <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
                     <p align="center">Pearl Defi</p>
                 </a>
-            </td>          
+            </td> 
+          </tr>
+          <tr>
             <td>
                 <a href="http://18.188.94.167:5000/">
                     <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
