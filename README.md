@@ -72,8 +72,7 @@
                     <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
                     <p align="center">IgarataArt NFT MarketPlace</p>
                 </a>
-            </td>
-          
+            </td>          
         </tr>
     </tbody>        
 </table>
