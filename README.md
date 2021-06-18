@@ -33,8 +33,6 @@
 
 ### Projects
 <table>
-
-    <tbody>
         <tr>
             <td>
                 <a href="https://maticfront.web.app/farms">
@@ -62,8 +60,7 @@
                     <p align="center">BrandonMarket - Marketing contract</p>
                 </a>
             </td>                      
-        </tr>
-    </tbody>        
+        </tr>       
 </table>
 
 
