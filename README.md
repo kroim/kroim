@@ -43,7 +43,8 @@
         <tr>
             <td>NFT Contracts</td>
             <td>NFT Marketplace</td>
-            <td>PIVX Wallet</td>           
+            <td>PIVX Wallet</td>  
+            <td>Matic NFT Maketplace</td>
         </tr>
     </thead>
     <tbody>
@@ -65,7 +66,14 @@
                     <img src="https://github.com/kroim/profile/blob/master/projects/Agenor_Android.jpg?raw=true" width="200">
                     <p align="center">Android Wallet for AgenorCoin</p>
                 </a>
-            </td>            
+            </td>
+            <td>
+                <a href="http://18.188.94.167:5000/">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
+                    <p align="center">IgarataArt NFT MarketPlace</p>
+                </a>
+            </td>
+          
         </tr>
     </tbody>        
 </table>
