@@ -99,7 +99,7 @@
 </table>
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
-- Forks of Pancakeswap, GooseDefi, Pantherswap
+- Forks of PancakeSwap, GooseDeFi, PantherSwap, MaticSwap.
 - NFT marketplaces like Rarible, Cryptopunk with OpenSea integration.
-- Decentralized Exchanges like binance.org
--  Smart contracts with token presale, redistribution, etc.
+- Decentralized Exchanges with TradingView
+-  Smart contracts for bep20, erc20 with token presale, redistribution, etc.
