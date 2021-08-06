@@ -5,6 +5,9 @@
 <a href="https://join.skype.com/invite/eumi2mzscGm8">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://discord.gg/gGaQtGvk4m">
+  <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kroim1202">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -35,38 +38,63 @@
 <table>
     <thead align="center">
         <tr>
-            <td>Matic Defi</td>
-            <td>BSC Defi</td>           
-            <td>Matic NFT</td>
-            <td>NFT Marketplace</td>
+            <td>IgarataArtNFT</td>
+            <td>SustainNFT</td>           
+            <td>RabbitNFT</td>
+            <td>CryptoPunk</td>
         </tr>
     </thead>
+    <tr>
+        <td>
+            <a href="http://18.188.94.167:5000/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://the.porini.shop/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/sustainnft.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://rabbitnft.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.harmonypunks.one/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cryptopunk.png?raw=true" width="200">
+            </a>
+        </td>                  
+    </tr>
+    <thead align="center">
         <tr>
-            <td>
-                <a href="https://maticfront.web.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
-                    <p align="center">MaticSwap Defi</p>
-                </a>
-            </td>
-            <td>
-                <a href="https://pearl-frontend-v1.vercel.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
-                    <p align="center">Pearl Defi</p>
-                </a>
-            </td>           
-            <td>
-                <a href="http://18.188.94.167:5000/">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
-                    <p align="center">IgarataArt NFT MarketPlace</p>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/kroim/BrandonMarketing-Contract">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
-                    <p align="center">BrandonMarket - Marketing contract</p>
-                </a>
-            </td>                      
-        </tr>       
+            <td>CosmicSwap</td>
+            <td>MaticSwap</td>           
+            <td>PearlSwap</td>
+            <td>DDEXX INFO</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://app.cosmicswap.finance/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://pearl-frontend-v1.vercel.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="http://analytics.ddexx.io/home">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+            </a>
+        </td>
+    </tr>       
 </table>
-
 
