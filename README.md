@@ -91,7 +91,7 @@
             </a>
         </td>
         <td>
-            <a href="http://analytics.ddexx.io/home">
+            <a href="http://analytics.ddexx.io">
                 <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
             </a>
         </td>
@@ -102,4 +102,4 @@
 - Forks of PancakeSwap, GooseDeFi, PantherSwap, MaticSwap.
 - NFT marketplaces like Rarible, Cryptopunk with OpenSea integration.
 - Decentralized Exchanges with TradingView
--  Smart contracts for bep20, erc20 with token presale, redistribution, etc.
+- Smart contracts for bep20, erc20 with token presale, redistribution, etc.
