@@ -38,10 +38,40 @@
 <table>
     <thead align="center">
         <tr>
+            <td>PotatoPowerClue</td>
+            <td>CryptoPigs</td>           
+            <td>DogePass</td>
+            <td>FunkiFoxes</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://mint.potatopower.club/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://nft.dogepass.io/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+            </a>
+        </td>                  
+    </tr>
+    <thead align="center">
+        <tr>
             <td>IgarataArtNFT</td>
-            <td>SustainNFT</td>           
             <td>RabbitNFT</td>
-            <td>CryptoPunk</td>
+            <td>CosmicSwap</td>
+            <td>DDEXX INFO</td>
         </tr>
     </thead>
     <tr>
@@ -49,57 +79,40 @@
             <a href="http://18.188.94.167:5000/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
             </a>
-        </td>
-        <td>
-            <a href="https://the.porini.shop/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/sustainnft.png?raw=true" width="200">
-            </a>
-        </td>           
+        </td>        
         <td>
             <a href="https://rabbitnft.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
             </a>
-        </td>
-        <td>
-            <a href="https://www.harmonypunks.one/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cryptopunk.png?raw=true" width="200">
-            </a>
-        </td>                  
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>MaticSwap</td>           
-            <td>PearlSwap</td>
-            <td>DDEXX INFO</td>
-        </tr>
-    </thead>
-    <tr>
+        </td>   
         <td>
             <a href="https://app.cosmicswap.finance/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
             </a>
-        </td>
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
-            </a>
-        </td>           
-        <td>
-            <a href="https://pearl-frontend-v1.vercel.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
-            </a>
-        </td>
+        </td>          
         <td>
             <a href="http://analytics.ddexx.io">
                 <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
             </a>
-        </td>
+        </td>           
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>MaticSwap</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+            </a>
+        </td> 
     </tr>       
 </table>
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
-- Forks of PancakeSwap, GooseDeFi, PantherSwap, MaticSwap.
-- NFT marketplaces like Rarible, Cryptopunk with OpenSea integration.
-- Decentralized Exchanges with TradingView
-- Smart contracts for bep20, erc20 with token presale, redistribution, etc.
+- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
+- Fork of PancakeSwap, GooseDeFi, PantherSwap.
+- Decentralized Exchanges with TradingView.
+- Token Bridge, Block Explorer.
+- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
