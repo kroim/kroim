@@ -34,7 +34,7 @@
   </tr>  
 </table>
 
-### Projects
+### DeFi Experiences
 <table>
     <thead align="center">
         <tr>
