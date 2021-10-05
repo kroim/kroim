@@ -81,7 +81,7 @@
         </td>   
         <td>
             <a href="https://chubbybunnynft.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
             </a>
         </td>                  
     </tr>   
