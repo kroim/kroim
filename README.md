@@ -43,7 +43,6 @@
             <td>CryptoPigs</td>           
             <td>DogePass</td>
             <td>FunkiFoxes</td>
-            <td>CryptoSwords</td>
         </tr>
     </thead>
     <tr>
@@ -66,13 +65,26 @@
             <a href="https://funkifoxes.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
             </a>
-        </td> 
+        </td>             
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>CryptoSwords</td>
+            <td>ChubbyBunny</td>
+        </tr>
+    </thead>
+    <tr>
         <td>
-            <a href="https://crypto-swords.com/">
+            <a href="https://crypto-swords.com/" target="_blank">
                 <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
             </a>
+        </td>   
+        <td>
+            <a href="https://chubbybunnynft.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny.png?raw=true" width="200">
+            </a>
         </td>                  
-    </tr>     
+    </tr>   
 </table>
 
 - NFT Marketplaces
