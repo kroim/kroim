@@ -1,4 +1,4 @@
-### Contact Details
+### **_Contact Details_**
 <p align='center'>
 <a href="https://t.me/kroim1202">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
@@ -17,7 +17,7 @@
 </a>&nbsp;&nbsp;
 </p>
 
-### 𝐒𝐤𝐢𝐥𝐥s
+### **_Skills_**
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
