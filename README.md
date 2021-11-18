@@ -98,7 +98,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>IgarataArtNFT</td>
+            <td>NFTMania</td>
             <td>RabbitNFT</td>
             <td>LunaChowNFT</td>
             <td>GekoSaveAuction</td>
@@ -106,8 +106,8 @@
     </thead>
     <tr>
         <td>
-            <a href="http://18.188.94.167:5000/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
+            <a href="https://nftmania.app/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
             </a>
         </td>        
         <td>
