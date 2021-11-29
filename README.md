@@ -42,8 +42,8 @@
         <tr>
             <td>PotatoPowerClue</td>
             <td>CryptoPigs</td>           
-            <td>DogePass</td>
             <td>FunkiFoxes</td>
+            <td>CryptoSwords</td>
         </tr>
     </thead>
     <tr>
@@ -56,31 +56,26 @@
             <a href="https://cryptopigs.one/#/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
             </a>
-        </td>           
-        <td>
-            <a href="https://nft.dogepass.io/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
-            </a>
-        </td>
+        </td> 
         <td>
             <a href="https://funkifoxes.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
             </a>
-        </td>             
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>CryptoSwords</td>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-        </tr>
-    </thead>
-    <tr>
+        </td>
         <td>
             <a href="https://crypto-swords.com/" target="_blank">
                 <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
             </a>
-        </td>   
+        </td>                
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>ChubbyBunny</td>
+            <td>GekoSave</td>
+            <td>HellDemon</td>
+        </tr>
+    </thead>
+    <tr>
         <td>
             <a href="https://chubbybunnynft.com/" target="_blank">
                 <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
@@ -90,7 +85,12 @@
             <a href="https://gekosave.io/" target="_blank">
                 <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
             </a>
-        </td>                     
+        </td>
+        <td>
+            <a href="https://helldemons.io/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="200">
+            </a>
+        </td>                       
     </tr>   
 </table>
 
