@@ -77,7 +77,7 @@
     </thead>
     <tr>
         <td>
-            <a href="https://chubbybunnynft.com/" target="_blank">
+            <a href="http://194.233.79.244:7005/" target="_blank">
                 <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
             </a>
         </td>
@@ -99,7 +99,7 @@
     <thead align="center">
         <tr>
             <td>NFTMania</td>
-            <td>RabbitNFT</td>
+            <td>Latitude</td>
             <td>LunaChowNFT</td>
             <td>GekoSaveAuction</td>
         </tr>
@@ -111,8 +111,8 @@
             </a>
         </td>        
         <td>
-            <a href="https://rabbitnft.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
+            <a href="https://latitud.art/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/latitud.png?raw=true" width="200">
             </a>
         </td> 
         <td>
