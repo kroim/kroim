@@ -95,7 +95,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>NFTMania</td>
+            <td>PixelPimp</td>
             <td>Latitude</td>
             <td>LunaChowNFT</td>
             <td>GekoSaveAuction</td>
@@ -103,7 +103,7 @@
     </thead>
     <tr>
         <td>
-            <a href="https://nftmania.app/">
+            <a href="https://nft.pixelpimp.io/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
             </a>
         </td>        
