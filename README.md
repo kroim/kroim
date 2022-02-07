@@ -9,7 +9,7 @@
 <a href="https://discord.gg/gGaQtGvk4m">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:kjipgnysjh2@gmail.com">
+<a href="mailto:kroim1202@outlook.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
