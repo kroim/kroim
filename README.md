@@ -25,52 +25,46 @@
             <td>PotatoPowerClue</td>
             <td>CryptoPigs</td>           
             <td>FunkiFoxes</td>
-            <td>CryptoSwords</td>
         </tr>
     </thead>
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="300">
             </a>
         </td> 
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="300">
             </a>
-        </td>
-        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
-            </a>
-        </td>                
+        </td>               
     </tr>
     <thead align="center">
-        <tr>
-            <td>ChubbyBunny</td>
+        <tr style="display: flex">
             <td>GekoSave</td>
             <td>HellDemon</td>
+            <td>KaiSniper</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
             <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="300">
             </a>
         </td>
         <td>
-            <a href="https://helldemons.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="200">
+            <a href="https://helldemon.cryptoliveton.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="300">
+            </a>
+        </td>
+        <td>
+            <a href="http://ssnft.kaifloki.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/KaiSniper.png?raw=true" width="300">
             </a>
         </td>                       
     </tr>   
@@ -112,7 +106,7 @@
 
 - DEX
 <table>
-<thead align="center">
+    <thead align="center">
         <tr>
             <td>CosmicSwap</td>
             <td>DDEXX INFO</td>
@@ -122,17 +116,17 @@
     <tr>
         <td>
             <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="300">
             </a>
         </td>          
         <td>
             <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="300">
             </a>
         </td>   
         <td>
             <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="300">
             </a>
         </td> 
     </tr>  
