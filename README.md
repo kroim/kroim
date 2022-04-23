@@ -46,15 +46,15 @@
     </tr>
     <thead align="center">
         <tr style="display: flex">
-            <td>GekoSave</td>
+            <td>PiracyPunks</td>
             <td>HellDemon</td>
-            <td>KaiSniper</td>
+            <td>Ragnarregiment</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="300">
+            <a href="https://www.piracypunks.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/PiracyPunks.png?raw=true" width="300">
             </a>
         </td>
         <td>
@@ -63,8 +63,8 @@
             </a>
         </td>
         <td>
-            <a href="http://ssnft.kaifloki.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/KaiSniper.png?raw=true" width="300">
+            <a href="https://theragnarregiment.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/Ragnarregiment.png?raw=true" width="300">
             </a>
         </td>                       
     </tr>   
@@ -74,16 +74,16 @@
 <table>
     <thead align="center">
         <tr>
-            <td>PixelPimp</td>
+            <td>Audioburst</td>
             <td>Latitude</td>
             <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
+            <td>QubismMarketplace</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://nft.pixelpimp.io/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
+            <a href="https://nft.audioburst.io/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/Audioburst.png?raw=true" width="200">
             </a>
         </td>        
         <td>
@@ -97,8 +97,8 @@
             </a>
         </td> 
         <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
+            <a href="https://qubismmarketplace.org/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/qubismmarketplace.png?raw=true" width="200">
             </a>
         </td>     
     </tr>
@@ -108,12 +108,18 @@
 <table>
     <thead align="center">
         <tr>
+            <td>LuchowSwap</td>
             <td>CosmicSwap</td>
             <td>DDEXX INFO</td>
             <td>MaticSwap</td>  
         </tr>
     </thead>
     <tr>
+        <td>
+            <a href="https://app.luchowswap.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/LuchowSwap.png?raw=true" width="300">
+            </a>
+        </td>  
         <td>
             <a href="https://app.cosmicswap.finance/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="300">
