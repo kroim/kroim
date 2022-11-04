@@ -23,9 +23,9 @@
 - QubismMarketplace: https://qubismmarketplace.org
 ###### DEX && CEX
 - LuchowSwap   
-    https://bsc.luchowswap.com(BSC)    
-    https://eth.luchowswap.com(Ethereum)  
-    https://pol.luchowswap.com(Polygon)  
+    BSC: https://bsc.luchowswap.com      
+    ETH: https://eth.luchowswap.com    
+    POLYGON: https://pol.luchowswap.com    
 - CosmicSwap: https://app.cosmicswap.finance
 - LabiSwap: https://labiswap.finance
 - MaticSwap: https://maticfront.web.app/farms
