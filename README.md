@@ -8,7 +8,8 @@
 - DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.
 - Decentralized Exchanges with TradingView.
 - Token Bridge, Block Explorer.
-- Chains: ETH, BSC, Polygon, Harmony, Cronos, Avalanche, xDai, Moonriver, Celo, Aurora, etc.
+- Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.
+- Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.
 
 #### Experiences
 ###### NFT Mint Dapps In Several Chains  
