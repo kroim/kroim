@@ -20,21 +20,13 @@
 - RealestClub: https://realest.club
 - Audioburst: https://nft.audioburst.io
 - LunaChowNFT: https://lunachownft.com
-- GreenTrade: https://greentrade.pro
-- QubismMarketplace: https://qubismmarketplace.org
 ###### DEX && CEX
 - LuchowSwap   
     BSC: https://bsc.luchowswap.com      
     ETH: https://eth.luchowswap.com    
     POLYGON: https://pol.luchowswap.com    
 - CosmicSwap: https://app.cosmicswap.finance
-- LabiSwap: https://labiswap.finance
 - MaticSwap: https://maticfront.web.app/farms
 - KangaExchange: https://kanga.exchange
 ###### Explorer && Bridge
-- ZeroCarbonExplorer: https://porini.xyz
-- PayfootExplorer: https://payfootexplorer.com
-- SwissDLT Explorer: https://swissdltexplorer.com
-- Porini Bridge: https://theporinibridge.com
-- Payfoot Bridge: https://theswisscoastbridge.com
 - SwissDLT Bridge: https://swissdltbridge.com
