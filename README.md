@@ -17,7 +17,8 @@
 - HellDemons: https://helldemon.cryptoliveton.com
 - Ragnarregiment: https://theragnarregiment.com
 ###### NFT Marketplaces
-- RealestClub: https://realest.club
+- RealestClub: https://realest.club  
+- RealestClub in Sepolia: https://realest.cryptoliveton.com  
 - Audioburst: https://nft.audioburst.io
 - LunaChowNFT: https://lunachownft.com
 ###### DEX && CEX
