@@ -1,7 +1,7 @@
 #### **Contact Details**
 - Telegram: @kroim1202
 - Skype: live:kroim1202
-- Discord: kroim#8799
+- Discord: kroim1202
 #### I am a senior blockchain developer with NFT/DeFi fields.
 - Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)
 - NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.
